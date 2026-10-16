@@ -1,7 +1,7 @@
 # Lab 1 - DevOps Workflow End-to-End
 
-- **Họ tên:** ...
-- **MSSV:** ...
+- **Họ tên:** Nguyễn Quang HUy
+- **MSSV:** DTC235180090
 - **Repo:** https://github.com/dtc235180090-stack/devops-lab1-portfolio
 - **Website:** https://dtc235180090-stack.github.io/devops-lab1-portfolio/
 
